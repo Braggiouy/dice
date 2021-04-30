@@ -1,0 +1,1 @@
+.box{display:flex;box-sizing:border-box;flex-direction:column;align-items:center;height:250px;width:200px;border:2px solid #000;border-radius:20px}.title{box-sizing:border-box;font-weight:700;border:2px solid #00f;margin:5px}.number{box-sizing:content-box;font-size:30px;font-weight:700;border:2px solid green;margin:5px}.button{margin:5px}
