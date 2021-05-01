@@ -1,33 +1,26 @@
-#Just a simple dice.
+| Just a simple Dice |
 
-<b>Created with:</b>
+
+|| Created with:
 
 - few lines of HTML 
 - few styles added just to make it nicer
 -simple Javascript code, using function, querySelector and addEventListener
 
-<b>Remember to do:<b>  
-npm -i 
+|| Remember to do:
 
-and 
-
-npm build. 
-
-<b>To see it in local:<b> 
-npm run dev
-
-
-# Webpack Starter
-
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-Recuerden reconstruir los módulos de Node
 ```
 npm install
 ```
+and
 
-Y para construir el build, recueren:
 ```
 npm run build
 ```
+||  To see it in local:
+
+```
+npm run dev
+```
+
+||  Check package.json file for more scrpits
