@@ -1,15 +1,14 @@
 function randomNumber() {
-  number = Math.ceil(Math.random() * 7);
-  return randomNumber;
+  let number = Math.ceil(Math.random() * 6);
+  let dice = document.querySelector(".dice");
+  dice.textContent = `${number}`;
 }
 
-function newNumber() {
-  const number = document.querySelector(".number");
-  number.textContent = `${randomNumber()}`;
-}
+let button = document.querySelector(".button");
+button.addEventListener("click", randomNumber);
 
-const button = document.querySelector(".button");
-button.addEventListener("click", newNumber);
+
+
 
 
 

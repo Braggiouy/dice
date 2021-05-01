@@ -3,28 +3,37 @@
   box-sizing: border-box;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   height: 250px;
   width: 200px;
   border: 2px solid black;
   border-radius: 20px;
+  box-shadow: 5px 5px 10px 1px cadetblue;
+  background: cornflowerblue;
 }
 
 .title{
   box-sizing: border-box;
   font-weight: bold;
-  border: 2px solid blue;
+  background: darkgoldenrod;
+  border-radius: 5px;
   margin: 5px;
+  padding: 5px;
 }
 
-.number{
-  box-sizing: content-box;
+.dice{
   font-size: 30px;
   font-weight: bold;
-  border: 2px solid green;
+  background: darkgray;
+  border-radius: 10px;
+  padding: 5px;
   margin: 5px;
 }
 
 .button{
-margin: 5px;
+  background: cyan;
+  border: 2px solid cyan;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px 1px black;
 }
 
