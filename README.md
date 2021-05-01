@@ -1,7 +1,7 @@
-| Just a simple Dice |
+||| Just a simple Dice |||
 
 
-|| Created with:
+-- Created with:
 
 - few lines of HTML 
 - few styles added just to make it nicer
