@@ -6,10 +6,3 @@ function randomNumber() {
 
 let button = document.querySelector(".button");
 button.addEventListener("click", randomNumber);
-
-
-
-
-
-
-
