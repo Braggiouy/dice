@@ -5,7 +5,7 @@
 
 - few lines of HTML 
 - few styles added just to make it nicer
--simple Javascript code, using function, querySelector and addEventListener
+- simple Javascript code, using function, querySelector and addEventListener
 
 || Remember to do:
 
